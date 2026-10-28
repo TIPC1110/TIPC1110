@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://tipc1110.github.io/ctdopdn/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0070F3&center=true&vCenter=true&width=550&lines=Sinh+viên+CNTT+%28nhập+học+2024%29;Full+Stack+%26+PHP+Backend+Developer;Founder+%40+ctdoteam;Always+Learning+%26+Building+Real+Products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0070F3&center=true&vCenter=true&width=550&lines=Sinh+viên+CNTT+%28nhập+học+2024%29;Full+Stack+%26+PHP+Backend+Developer;Co-Founder+%40+ctdoteam;Always+Learning+%26+Building+Real+Products" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,7 +16,7 @@
 
 ### 👨‍💻 Về Tôi / About Me
 
-Mình là sinh viên **Công nghệ thông tin** (nhập học 2024, vào chuyên ngành từ giữa 2025) tại Việt Nam, đồng thời là người sáng lập và phát triển hệ sinh thái **`ctdoteam`**. Với thế mạnh nòng cốt về **PHP & Kiến Trúc Backend**, mình tập trung xây dựng các hệ thống dịch vụ bản quyền/API, ứng dụng web thời gian thực hiệu năng cao, và tích hợp các giải pháp AI thiết thực vào sản phẩm — song song với việc học.
+Mình là sinh viên **Công nghệ thông tin** (nhập học 2024, vào chuyên ngành từ giữa 2025) tại Việt Nam, đồng thời là đồng sáng lập và phát triển hệ sinh thái **`ctdoteam`**. Với thế mạnh nòng cốt về **PHP & Kiến Trúc Backend**, mình tập trung xây dựng các hệ thống dịch vụ bản quyền/API, ứng dụng web thời gian thực hiệu năng cao, và tích hợp các giải pháp AI thiết thực vào sản phẩm — song song với việc học.
 
 - 🔭 **Dự án trọng tâm đang phát triển:** 
   - **[CTDOBus (ctdomap)](https://github.com/TIPC1110/ctdomap)**: Hệ thống điều hành & bản đồ xe buýt Hà Nội trực tiếp thời gian thực (Live GPS telemetry, SSE streaming, thuật toán tìm tuyến thông minh BFS).
