@@ -103,6 +103,55 @@ Mình là một **Full Stack Developer** đam mê công nghệ tại Việt Nam,
 
 ---
 
+### 🎓 Chứng Chỉ & Năng Lực Học Thuật / Certifications & Credentials
+
+<details open>
+<summary><b>🏛️ Kỹ Thuật Phần Mềm & Thiết Kế Hệ Thống (Coursera)</b></summary>
+<br/>
+
+- 📜 **Software Engineering: Modeling Software Systems using UML** *(10/04/2026)*
+- 📜 **Software Engineering: Implementation and Testing** *(10/04/2026)*
+- 📜 **Software Engineering: Software Design and Project Management** *(10/04/2026)*
+- 📜 **Introduction to User Experience Principles and Processes** *(07/10/2026)*
+
+</details>
+
+<details open>
+<summary><b>🤖 Trí Tuệ Nhân Tạo & Generative AI</b></summary>
+<br/>
+
+- 🏆 **Generative AI in Software Development** — *Amazon Web Services* *(17/01/2026)*
+- 🧠 **AI For Everyone** — *DeepLearning.AI* *(04/08/2025)*
+
+</details>
+
+<details open>
+<summary><b>🌐 Chuyên Ngành Web Design for Everybody (Coursera)</b></summary>
+<br/>
+
+- 🥇 **Web Design for Everybody Capstone** *(04/12/2025)*
+- 📜 **Advanced Styling with Responsive Design** *(04/12/2025)*
+- 📜 **Interactivity with JavaScript** *(04/12/2025)*
+- 📜 **Introduction to CSS3** *(03/12/2025)*
+- 📜 **Introduction to HTML5** *(25/09/2025)*
+
+</details>
+
+<details open>
+<summary><b>🎓 Năng Lực Học Thuật & Đánh Giá Năng Lực</b></summary>
+<br/>
+
+- 🎖️ **FPT Talent Assessment Completion** *(25/10/2026)*
+- 🥇 **Academic Skills for University Success: Capstone** *(25/04/2025)*
+- 📜 **Communication Skills for University Success** *(17/04/2025)*
+- 📜 **Critical Thinking Skills for University Success** *(09/04/2025)*
+- 📜 **Problem-Solving Skills for University Success** *(04/04/2025)*
+- 📜 **Information & Digital Literacy for University Success** *(29/03/2025)*
+
+</details>
+
+---
+
 ### 📊 Thống Kê Hoạt Động / GitHub Analytics
 
 <div align="center">
