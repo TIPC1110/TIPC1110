@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://tipc1110.github.io/ctdopdn/"><img src="https://img.shields.io/badge/Portfolio-ctdopdn-0070F3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:dothanhcong1110@outlook.com"><img src="https://img.shields.io/badge/Email-dothanhcong1110-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
-  <a href="https://t.me/ddevdio"><img src="https://img.shields.io/badge/Telegram-@ddevdio-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://www.facebook.com/do.x.nguyen.2025/"><img src="https://img.shields.io/badge/Facebook-Do%20Nguyen-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
 
@@ -127,7 +126,6 @@ Mình là một **Full Stack Developer** đam mê công nghệ tại Việt Nam,
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-tipc1110.github.io%2Fctdopdn-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tipc1110.github.io/ctdopdn/)
 [![Email](https://img.shields.io/badge/Email-dothanhcong1110%40outlook.com-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:dothanhcong1110@outlook.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@ddevdio-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ddevdio)
 [![Facebook](https://img.shields.io/badge/Facebook-Do%20Nguyen-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/do.x.nguyen.2025/)
 [![GitHub](https://img.shields.io/badge/GitHub-TIPC1110-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TIPC1110)
 
