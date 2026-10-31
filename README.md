@@ -1,15 +1,13 @@
-# 👋 Xin chào! Mình là Do Nguyen (TIPC1110)
+# 👋 Xin chào! Mình là ctdo (TIPC1110)
 
 <div align="center">
-  <a href="https://tipc1110.github.io/ctdopdn/">
+  <a href="https://www.facebook.com/groups/ctdo.net">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0070F3&center=true&vCenter=true&width=550&lines=Sinh+viên+CNTT+%28nhập+học+2024%29;Full+Stack+%26+PHP+Backend+Developer;Co-Founder+%40+ctdoteam;Always+Learning+%26+Building+Real+Products" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  <a href="https://tipc1110.github.io/ctdopdn/"><img src="https://img.shields.io/badge/Portfolio-ctdopdn-0070F3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:dothanhcong1110@outlook.com"><img src="https://img.shields.io/badge/Email-dothanhcong1110-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
-  <a href="https://www.facebook.com/do.x.nguyen.2025/"><img src="https://img.shields.io/badge/Facebook-Do%20Nguyen-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.facebook.com/groups/ctdo.net"><img src="https://img.shields.io/badge/Facebook_Group-ctdo.net-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Group" /></a>
 </p>
 
 ---
@@ -172,9 +170,7 @@ Mình là sinh viên **Công nghệ thông tin** (nhập học 2024, vào chuyê
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tipc1110.github.io%2Fctdopdn-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tipc1110.github.io/ctdopdn/)
-[![Email](https://img.shields.io/badge/Email-dothanhcong1110%40outlook.com-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:dothanhcong1110@outlook.com)
-[![Facebook](https://img.shields.io/badge/Facebook-Do%20Nguyen-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/do.x.nguyen.2025/)
+[![Facebook Group](https://img.shields.io/badge/Facebook_Group-ctdo.net-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/groups/ctdo.net)
 [![GitHub](https://img.shields.io/badge/GitHub-TIPC1110-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TIPC1110)
 
 </div>
